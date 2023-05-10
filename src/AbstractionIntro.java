@@ -7,4 +7,6 @@ public class AbstractionIntro {
     //Abstraction is process of hiding implementation details from the user
 
     //only the functionality will be provided to the user
+
+    //Focusing on the essential qualities of something
 }
