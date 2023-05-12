@@ -5,7 +5,7 @@ public class BadProgram {
             System.out.println(a++);
         }
 
-
+        //Its never ending(infinite) loop
     }
 
 
